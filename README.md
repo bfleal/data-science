@@ -2,7 +2,7 @@
 
 24 Data Science Projects from Begginer to Advanced (https://bit.ly/2JyhYbU)
 
-1. Begginet Level
+1. Begginer Level
    - Iris Data
    - Loan Prediction Data
    - Bigmart Sales Data
